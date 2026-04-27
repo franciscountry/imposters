@@ -1,2 +1,0 @@
-# imposters
-NCC Imposters
